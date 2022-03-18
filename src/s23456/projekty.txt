@@ -1,0 +1,3 @@
+Alfa    Brzoza Sebastian    Luty Remigiusz
+Beta    Kowalski Jan    Nazwisko Bernard    Kwiat Joanna
+Delta   Kwiat Joanna    Cztery Sławomir Polak Robert    Luty Remigiusz
